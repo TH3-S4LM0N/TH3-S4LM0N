@@ -9,4 +9,5 @@ Uh hi ig
 </div>
 
 i like wrote some rust one time, i made a bunch of unfinished stuff?\
-enjoy
+enjoy\
+godot is cool
