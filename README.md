@@ -11,3 +11,8 @@ Uh hi ig
 i like wrote some rust one time, i made a bunch of unfinished stuff?\
 enjoy\
 godot is cool
+
+:troll: :fire: stuff :fire: :troll:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3-S4LM0N&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+bruh C \
+dwm cursed me 
