@@ -14,5 +14,5 @@ godot is cool
 
 :trollface: :fire: stuff :fire: :trollface: \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3-S4LM0N&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) \
-bruh C \
+bruh C :goberserk: \
 dwm cursed me 
